@@ -1,0 +1,1 @@
+This is a directory to explain output on ubuntu terminal 
